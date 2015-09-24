@@ -1,0 +1,16 @@
+a=4
+if a%2==0:
+    print "this number is even"
+if a%2==1:
+    print"this number is odd"
+
+
+
+
+
+
+a=5
+if a%2==0:
+    print"this number is even"
+else:
+    print"this number is odd"
